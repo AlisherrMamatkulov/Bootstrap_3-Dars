@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+.mary{
+    width: 800px;
+    height: 500px;
+}
+.w{
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    background: linear-gradient(firebrick,dodgerblue,limegreen);
+    color: white;
+    padding-left: 250px;
+    padding-top: 70px;
+}
+.m{
+width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    background: linear-gradient(90deg,orange,yellow,green,blue,rebeccapurple);
+}

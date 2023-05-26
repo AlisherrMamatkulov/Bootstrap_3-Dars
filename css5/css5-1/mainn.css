@@ -1,0 +1,68 @@
+.sa{
+    width: 1200px;
+    margin: 0 auto;
+}
+.sana{
+    width: 100%;
+    display: block;
+}
+.sana1{
+    width: 100%;
+    display: block;
+}
+.a1{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+    box-shadow: 0 0  50px blue;
+
+
+}
+.a2{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+    box-shadow: 40px 0 70px blue;
+
+}
+.a3{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+    box-shadow: 40px 40px 20px blue;
+
+}
+.clear{
+    clear: both;
+}
+.a4{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+    box-shadow:inset 0 0 100px blue ;
+
+}
+.a5{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+
+}
+.a6{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+    margin: 40px 40px;
+
+}

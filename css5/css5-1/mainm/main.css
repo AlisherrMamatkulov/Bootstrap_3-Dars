@@ -1,0 +1,118 @@
+.sa{
+    width: 1200px;
+    margin: auto;
+    height: 600px;
+    display: block;
+
+}
+.sana{
+    width: 100%;
+    display: block;
+    margin: 25px;
+
+}
+.sana1{
+    width: 100%;
+    display: block;
+    margin: 25px;
+}
+.a1{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+
+}
+.a2{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: 25px 25px 10px gray;
+
+}
+.a3{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: 40px 40px 20px gray;
+}
+.a4{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: 40px 40px 50px gray;
+}
+.clear{
+    clear: both;
+}
+.a5{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: 40px 40px 20px whitesmoke;
+}
+.a6{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: 40px 40px 10px gainsboro;
+}
+.a7{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: -10px 40px 10px gray;
+}
+.a8{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 30px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 20px;
+    box-shadow: -10px -10px 10px gray;
+}

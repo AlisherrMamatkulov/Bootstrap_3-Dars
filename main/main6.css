@@ -1,0 +1,19 @@
+.row{
+    width: 200px;
+    border: 1px solid white;
+    margin-left: 200px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    height: 300px;
+}
+.container{
+    background-color: pink;
+    height: 800px;
+    width: 600px;
+    display: block;
+    position: relative;
+
+}
